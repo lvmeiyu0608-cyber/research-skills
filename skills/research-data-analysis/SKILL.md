@@ -2,7 +2,7 @@
 name: research-data-analysis
 description: 管理学/信息系统研究的数据分析与前提核查。先确认实际拿到的数据、把研究问题对应到变量与测量，再检查方法前提，最后建模、解释并列出需研究者核验的事项。用户提供数据集、变量说明或分析计划，要求选择统计方法、检查数据、写 R/Stata/Python 分析代码、解读回归/SEM/面板结果时使用。
 version: 0.2.0
-author: fuguanlin11
+author: Aria
 license: MIT
 tags: [Data Analysis, Research Methods, Assumption Checking, Management, Information Systems]
 dependencies: [pandas, numpy, scipy]
